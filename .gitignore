@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+site-packages/
+
+# dotenv
+.env
+
+# VS Code
+.vscode/
